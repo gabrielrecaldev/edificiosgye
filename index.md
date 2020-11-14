@@ -1,4 +1,4 @@
-<div>Teachable Machine Image Model</div>
+<div>Edificios De Guayaquil</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
@@ -57,4 +57,3 @@
         }
     }
 </script>
-
